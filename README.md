@@ -98,3 +98,4 @@ For some reason, I couldn't load the modules System.Process and System.Random. I
 
 ## References
 [Medium Blog by Benjamin Botto](https://medium.com/@benjamin.botto/implementing-an-optimal-rubiks-cube-solver-using-korf-s-algorithm-bf750b332cf9)
+[Wiki] (https://wiki.ubc.ca/Course:CPSC312-2024W2/RubiksCubeSimulator)
